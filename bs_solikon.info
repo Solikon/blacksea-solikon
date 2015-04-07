@@ -1,5 +1,5 @@
-name = Blacksea for Drupal 7.x
-description = Theme by ThemeShark.com (default).
+name = BS Solikon
+description = Solikon Theme based on blacksea Theme by ThemeShark.com.
 version = VERSION
 core = 7.x
 engine = phptemplate
@@ -42,6 +42,6 @@ settings[twitter_url] = 'http://www.twitter.com'
 ; Information added by drupal.org packaging script on 2013-02-26
 version = "7.x-1.3"
 core = "7.x"
-project = "blacksea"
+project = "bs_solikon"
 datestamp = "1361898659"
 

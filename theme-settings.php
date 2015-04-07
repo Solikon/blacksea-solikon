@@ -1,6 +1,6 @@
 <?php
 
-function blacksea_form_system_theme_settings_alter(&$form, $form_state) {
+function bs_solikon_form_system_theme_settings_alter(&$form, $form_state) {
 
   $form['appearance_container'] = array(
     '#type' => 'fieldset',
