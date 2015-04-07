@@ -28,7 +28,7 @@ body {
   background: #ffffff;
 }
 
-#page-wrapper { 
+#page-wrapper {
   margin: 0;
   padding: 0;
   text-align: justify; /* Reset text alignment */
@@ -246,7 +246,7 @@ body {
 }
 
 #slideshow  .views-field-title a {
-	color: #85bc22;	
+	color: #85bc22;
 }
 
 #slideshow  .views-field-title a:hover {
@@ -296,7 +296,7 @@ body {
 	float: left;
 	height: 25px;
 	width: 64px;
-  background: url(../images/style-solikon/prev-next.png) left no-repeat;	
+  background: url(../images/style-solikon/prev-next.png) left no-repeat;
 	text-indent: -9999em;
 	cursor: pointer;
 }
@@ -306,7 +306,7 @@ body {
 	float: left;
 	height: 25px;
 	width: 64px;
-  background: url(../images/style-solikon/prev-next.png) right no-repeat;	
+  background: url(../images/style-solikon/prev-next.png) right no-repeat;
 	text-indent: -9999em;
 	cursor: pointer;
 }
@@ -345,6 +345,10 @@ body {
 	color: #434f4f;
   background: url(../images/style-solikon/bottom-regions-bg.png);
 	border-top: 15px solid #ffffff;
+}
+
+#bottom-user-regions .content {
+    color: #444;
 }
 
 .bottom-user-regions-inner {
@@ -534,7 +538,7 @@ ul.menu, ul.menu li, li.expanded, li.collapsed, li.leaf {
 
 #navigation-menu ul.menu li li a:hover, #navigation-menu ul.menu li li a.active:hover {
   color: #85bc22;
-  background: #ffffff;  
+  background: #ffffff;
 }
 
 #navigation-menu ul.menu li ul ul {
@@ -632,7 +636,7 @@ ul.menu, ul.menu li, li.expanded, li.collapsed, li.leaf {
 
 #main-menu ul.menu li li a:hover, #main-menu ul.menu li li a.active:hover {
   color: #434f4f;
-  background: #85bc22;  
+  background: #85bc22;
 }
 
 #main-menu ul.menu li ul ul {
