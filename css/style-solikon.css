@@ -347,7 +347,9 @@ body {
 	border-top: 15px solid #ffffff;
 }
 
-#bottom-user-regions .content {
+#block-views-spenden-block .content,
+#block-views-helfen-block .content,
+#block-views-save_the_week-block .content {
     color: #444;
 }
 
