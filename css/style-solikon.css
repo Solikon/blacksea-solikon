@@ -347,12 +347,6 @@ body {
 	border-top: 15px solid #ffffff;
 }
 
-#block-views-spenden-block .content,
-#block-views-helfen-block .content,
-#block-views-save_the_week-block .content {
-    color: #444;
-}
-
 .bottom-user-regions-inner {
   padding: 30px 0;
   background: url(../images/style-solikon/bottom-regions-inner-bg.png) top repeat-x;
