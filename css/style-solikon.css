@@ -88,7 +88,8 @@ body {
 }
 
 #header-wrapper {
-	line-height: 100px;
+	line-height: 100px; 	
+	background: url(../images/style-solikon/header.png) center no-repeat;
 }
 
 #site-logo {
@@ -113,7 +114,7 @@ body {
 #site-name h1, #site-name span {
   padding: 0;
   margin: 0;
-  font-size: 2.5em;
+  font-size: 3.0em;
 	line-height: 100px;
 }
 
@@ -136,16 +137,6 @@ body {
 	color: #e5e7e3;
 }
 
-
-/* Css für Views */
-´
-#block-views-spenden-block .content,
-#block-views-helfen-block .content,
-#block-views-save_the_week-block .content {
-    background: #434f4f;
-}
-div.helpers {white-space: pre; line-height:0.7em;}
-div.center {padding-left: 30px; }
 
 
 /**
