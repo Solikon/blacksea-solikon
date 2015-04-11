@@ -36,7 +36,6 @@ body {
   text-align: justify; /* Reset text alignment */
   margin: 0 auto; /* Center on Page */
   background: #eeeeee;
-  font-size: .75em;
 }
 
 .width-wrapper {
