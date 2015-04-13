@@ -114,7 +114,7 @@ body {
 #site-name h1, #site-name span {
   padding: 0;
   margin: 0;
-  font-size: 2.4em;
+  font-size: 2.2em;
 	line-height: 100px;
 	font-family: "Fontin Sans", Helvetica, sanserif;
 }
@@ -750,7 +750,7 @@ ul.menu, ul.menu li, li.expanded, li.collapsed, li.leaf {
 .teaser .title {
   margin: 0;
 	padding: 0 0 10px 0;
-	font-size: 2.0em;
+	font-size: 1.8em;
 	font-weight: normal;
 	font-style:italic;
 }
