@@ -35,7 +35,7 @@ body {
   padding: 0;
   text-align: justify; /* Reset text alignment */
   margin: 0 auto; /* Center on Page */
-  background: #eeeeee;
+  background: #ffffff;
 }
 
 .width-wrapper {
@@ -49,8 +49,8 @@ body {
 }
 
 #middle-wrapper {
-  padding: 30px 0;
-  border-top: 1px solid #e5e7e3;
+  padding: 60px 0;
+  border-top: 1px solid #85bc22;
 	background: url(../images/style-solikon/middle-wrapper-bg.png) bottom repeat-x;
 }
 
@@ -114,27 +114,28 @@ body {
 #site-name h1, #site-name span {
   padding: 0;
   margin: 0;
-  font-size: 3.0em;
+  font-size: 2.4em;
 	line-height: 100px;
+	font-family: "Fontin Sans", Helvetica, sanserif;
 }
 
 #site-name a {
-  color: #85bc22;
-	text-shadow: 1px 1px #85bc22;
+  color: #434f4f;
+	text-shadow: none;
 }
 
 #site-slogan {
   float: left;
   padding-right: 20px;
-	text-shadow: 1px 1px #e5e7e3;
+	text-shadow: none;
 }
 
 #site-slogan h3 {
   margin: 0;
 	padding: 0;
-  font-size: 1.0em;
+  font-size: 1.2em;
 	line-height: 100px;
-	color: #e5e7e3;
+	color: #434f4f;
 }
 
 
@@ -229,7 +230,7 @@ body {
 #slideshow {
   padding: 30px 0;
 	background: url(../images/style-solikon/slideshow.png) top center no-repeat;
-	color: #f5f7f3;
+	color: #434f4f;
 }
 
 #slideshow .views-field-field-image {
@@ -248,7 +249,7 @@ body {
 }
 
 #slideshow  .views-field-title a {
-	color: #e5e7e3;	
+	color: #85bc22;	
 }
 
 #slideshow  .views-field-title a:hover {
@@ -257,7 +258,7 @@ body {
 
 #slideshow  .views-field-body {
 	padding-bottom: 10px;
-  color: #f5f7f3;
+  color: #434f4f;
   text-align: center;
 	font-size: 1.0em;
 	font-family: "Fontin Sans", Helvetica, sanserif;
@@ -390,21 +391,21 @@ body {
 
 .sidebar-first-inner .block, .sidebar-second-inner .block {
   margin-bottom: 20px;
-	border: 1px solid #e5e7e3;
+	border: 2px solid #eeeeee;
 	border-radius: 5px;
 }
 
 .sidebar-first-inner .block-inner, .sidebar-second-inner .block-inner {
   padding: 20px;
 	border: 1px solid #ffffff;
-  background: #f5f7f3;
+  background: #ffffff;
 	border-radius: 5px;
 }
 
 .sidebar-first-inner .block-inner h3, .sidebar-second-inner .block-inner h3 {
 	margin: 0;
 	padding-bottom: 2px;
-  border-bottom: 1px solid #e5e7e3;
+  border-bottom: 1px solid #eeeeee;
 }
 
 .sidebar-first-inner .block-inner .content, .sidebar-second-inner .block-inner .content {
@@ -418,7 +419,7 @@ body {
   display: block;
 	padding: 0 5px;
 	line-height: 25px;
-	background: #f5f7f3;
+	background: #ffffff;
 	border-top: 1px solid #ffffff;
 }
 
@@ -472,7 +473,8 @@ ul.menu, ul.menu li, li.expanded, li.collapsed, li.leaf {
   height: 67px;
 	line-height: 62px;
 	margin: 0 10px 25px 10px;
-	border-bottom: 2px solid #dcdcdc;
+	border-radius: 5px;
+	border: 1px solid #dcdcdc;
 }
 
 #navigation-menu ul.menu li {
@@ -500,7 +502,7 @@ ul.menu, ul.menu li, li.expanded, li.collapsed, li.leaf {
 #navigation-menu ul.menu li a:hover {
 	color: #434f4f;
 	text-decoration: none;
-	background: #ffffff;
+	background: #85bc22;
 	
 }
 
@@ -513,15 +515,15 @@ ul.menu, ul.menu li, li.expanded, li.collapsed, li.leaf {
   width: 200px;
   left: -999em;
   z-index: 100;
-  background: #e5e7e3;
+  background: #ffffff;
   line-height: 20px;
-  border-color: #ffffff #ffffff #ffffff #ffffff; border-radius: 0px 3px 3px 3px;
+  border-color: #85bc22 #85bc22 #85bc22 #85bc22; border-radius: 0px 3px 3px 3px;
   border-style: solid; border-width: 0px 3px 3px 3px;
 }
 
 #navigation-menu ul.menu li ul li {
   border-top: 1px solid #ffffff;
-  border-bottom: 1px solid #ffffff;
+  border-bottom: 1px solid #eeeeee;
 }
 
 #navigation-menu ul.menu li ul li.first {
@@ -543,8 +545,8 @@ ul.menu, ul.menu li, li.expanded, li.collapsed, li.leaf {
 }
 
 #navigation-menu ul.menu li li a:hover, #navigation-menu ul.menu li li a.active:hover {
-  color: #85bc22;
-  background: #ffffff;  
+  color: #434f4f;
+  background: #85bc22;  
 }
 
 #navigation-menu ul.menu li ul ul {
@@ -611,12 +613,12 @@ ul.menu, ul.menu li, li.expanded, li.collapsed, li.leaf {
   left: -999em;
   z-index: 100;
   color: #85bc22;
-  background: #434f4f;
+  background: #ffffff;
   line-height: 20px;
 }
 
 #main-menu ul.menu li ul li {
-  border-top: 1px solid #434f4f;
+  border-top: 1px solid #ffffff;
   border-bottom: 1px solid #85bc22;
 }
 
@@ -741,15 +743,16 @@ ul.menu, ul.menu li, li.expanded, li.collapsed, li.leaf {
   padding: 20px;
   margin-bottom: 20px;
 	background: #ffffff url(../images/style-solikon/teaser-point.png) bottom center no-repeat;
-	border-radius: 5px;
-	border: 1px solid #dddddd;
+	border-radius: 0px;
+	border-bottom: 1px solid #85bc22;
 }
 
 .teaser .title {
   margin: 0;
 	padding: 0 0 10px 0;
 	font-size: 2.0em;
-	font-weight: normal
+	font-weight: normal;
+	font-style:italic;
 }
 
 .teaser .title a:hover {
@@ -797,8 +800,7 @@ ul.menu, ul.menu li, li.expanded, li.collapsed, li.leaf {
 	  padding: 20px;
   margin-bottom: 20px;
 	background: #ffffff;
-	border-radius: 5px;
-	border: 1px solid #dddddd;
+
 }
 
 .full-node .title {
