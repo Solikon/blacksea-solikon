@@ -1,4 +1,4 @@
-/* Blacksea Css Solikon-Style */
+/* bs_solikon Css  Blacksea Solikon-Style */
 
 /**
  *  HTML ELEMENTS
@@ -59,7 +59,7 @@ body {
 }
 
 #main-content-inner {
-  margin: 0 10px;
+  margin: 0px 10px 0px 60px;
 }
 
 .sidebar-first-inner, .sidebar-second-inner {
@@ -107,16 +107,17 @@ body {
 }
 
 #site-name {
-    float: left;
-  padding-right: 20px;
+
+  padding: 40px 0px 0px 0px;
 }
 
 #site-name h1, #site-name span {
   padding: 0;
   margin: 0;
-  font-size: 2.2em;
-	line-height: 100px;
-	font-family: "Fontin Sans", Helvetica, sanserif;
+  font-size: 2.4em;
+	line-height: 38px;
+	font-family: "Bellota", Helvetica, sanserif;
+	font-style: italic;
 }
 
 #site-name a {
@@ -133,8 +134,10 @@ body {
 #site-slogan h3 {
   margin: 0;
 	padding: 0;
-  font-size: 1.2em;
-	line-height: 100px;
+  font-size: 1.4em;
+	line-height: 22px;
+	font-family: "Bellota", Helvetica, sanserif;
+	font-style: italic;
 	color: #434f4f;
 }
 
@@ -572,7 +575,7 @@ ul.menu, ul.menu li, li.expanded, li.collapsed, li.leaf {
 }
 
 #main-menu {
-  margin-top: 30px;
+  margin-top: 60px;
   padding: 0 10px;
   float: right;
 	line-height: 40px;
