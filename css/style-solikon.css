@@ -116,7 +116,7 @@ body {
   margin: 0;
   font-size: 3.5em;
 	line-height: 56px;
-	font-family: "atruerblue", Verdana, sanserif;
+	font-family: "Atruerblue", Verdana, sanserif;
 	
 }
 
@@ -138,7 +138,7 @@ body {
 	text-align:left;
 	font-size: 1.4em;
 	line-height: 22px;
-	font-family: "candela", Verdana, sanserif;
+	font-family: "Candela", Verdana, sanserif;
 	font-style: italic;
 	color: #434f4f;
 }
@@ -266,7 +266,7 @@ body {
   color: #434f4f;
   text-align: center;
 	font-size: 1.0em;
-	font-family: "Fontin Sans", Verdana, sanserif;
+	font-family: "Candela", Verdana, sanserif;
 	text-shadow: none;
 }
 
@@ -594,7 +594,7 @@ ul.menu, ul.menu li, li.expanded, li.collapsed, li.leaf {
 #main-menu ul.menu li a {
   display: block;
   padding: 0 10px;
-   font-family: "Fontin Sans";
+   font-family: "Candela", Verdana, sanserif;
 	font-weight: bold;
 	color: #85bc22;
   font-size: 1.2em;
