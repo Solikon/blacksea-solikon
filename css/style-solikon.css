@@ -134,9 +134,9 @@ body {
 #site-slogan h3 {
   margin: 0;
 	padding: 0;
-	max-width:500px;
+	max-width:560px;
 	text-align:left;
-	font-size: 1.2em;
+	font-size: 1.4em;
 	line-height: 22px;
 	font-family: "candela", Verdana, sanserif;
 	font-style: italic;
@@ -581,6 +581,7 @@ ul.menu, ul.menu li, li.expanded, li.collapsed, li.leaf {
   padding: 0 10px;
   float: right;
 	line-height: 40px;
+	border-bottom: 1px solid #85bc22;
 }
 
 #main-menu ul.menu {
