@@ -5,6 +5,7 @@
 */
 
 h1, h2, h3, h4, h5 {
+	color: #434f4f;
 }
 
 a {
@@ -49,8 +50,7 @@ body {
 }
 
 #middle-wrapper {
-  padding: 30px 0;
-  border-top: 1px solid #85bc22;
+  padding: 60px 0;
 	background: url(../images/style-solikon/middle-wrapper-bg.png) bottom repeat-x;
 }
 
@@ -59,7 +59,7 @@ body {
 }
 
 #main-content-inner {
-  margin: 0px 10px 0px 60px;
+  margin: 0px 10px 0px 90px;
 }
 
 .sidebar-first-inner, .sidebar-second-inner {
@@ -114,14 +114,14 @@ body {
 #site-name h1, #site-name span {
   padding: 0;
   margin: 0;
-  font-size: 2.4em;
-	line-height: 38px;
-	font-family: "Bellota", Helvetica, sanserif;
-	font-style: italic;
+  font-size: 3.5em;
+	line-height: 56px;
+	font-family: "atruerblue", Verdana, sanserif;
+	
 }
 
 #site-name a {
-  color: #434f4f;
+  color: #85bc22;
 	text-shadow: none;
 }
 
@@ -134,9 +134,11 @@ body {
 #site-slogan h3 {
   margin: 0;
 	padding: 0;
-  font-size: 1.4em;
+	max-width:500px;
+	text-align:left;
+	font-size: 1.2em;
 	line-height: 22px;
-	font-family: "Bellota", Helvetica, sanserif;
+	font-family: "candela", Verdana, sanserif;
 	font-style: italic;
 	color: #434f4f;
 }
@@ -264,7 +266,7 @@ body {
   color: #434f4f;
   text-align: center;
 	font-size: 1.0em;
-	font-family: "Fontin Sans", Helvetica, sanserif;
+	font-family: "Fontin Sans", Verdana, sanserif;
 	text-shadow: none;
 }
 
@@ -747,7 +749,7 @@ ul.menu, ul.menu li, li.expanded, li.collapsed, li.leaf {
   margin-bottom: 20px;
 	background: #ffffff url(../images/style-solikon/teaser-point.png) bottom center no-repeat;
 	border-radius: 0px;
-	border-bottom: 1px solid #85bc22;
+	border-top: 1px solid #85bc22;
 }
 
 .teaser .title {
