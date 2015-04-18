@@ -825,6 +825,10 @@ ul.menu, ul.menu li, li.expanded, li.collapsed, li.leaf {
 	color: #434f4f;
 }
 
+span.date-display-single {
+font-weight:bold; 
+}
+
 .full-node .taxonomy {
 }
 
