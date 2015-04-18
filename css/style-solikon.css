@@ -49,8 +49,8 @@ body {
 }
 
 #middle-wrapper {
-  padding: 60px 0;
-	background: url(../images/style-solikon/middle-wrapper-bg.png) bottom repeat-x;
+  padding: 30px 0;
+	background: url(../images/style-solikon/middle-wrapper-bg.png) bottom center no-repeat;
 }
 
 #main-content {
@@ -92,7 +92,7 @@ body {
 }
 
 #site-logo {
-  padding: 0 10px;
+  padding: 20px 10px;
     float: left;
   padding-right: 20px;
 }
@@ -107,7 +107,7 @@ body {
 
 #site-name {
 
-  padding: 40px 0px 0px 0px;
+  padding: 90px 0px 0px 0px;
 }
 
 #site-name h1, #site-name span {
@@ -116,6 +116,7 @@ body {
   font-size: 3.5em;
 	line-height: 56px;
 	font-family: "Atruerblue", Verdana, sanserif;
+	letter-spacing: 2px;
 	
 }
 
@@ -349,28 +350,27 @@ body {
 */
 
 #bottom-user-regions {
-	color: #85bc22;
-  background: url(../images/style-solikon/bottom-regions-bg.png);
+	color: #434f4f;
 	border-top: 15px solid #ffffff;
 }
 
 .bottom-user-regions-inner {
   padding: 30px 0;
-  background: url(../images/style-solikon/bottom-regions-inner-bg.png) top repeat-x;
+ 
 }
 
 .bild-float-left {float: left; margin: 5px 15px 0px 0px }
 
 #bottom-user-regions a {
-  color: #9fd047;
-}
-
-#bottom-user-regions a:hover {
   color: #85bc22;
 }
 
+#bottom-user-regions a:hover {
+  color: #434f4f;
+}
+
 #block-simplenews-1
-.form-item label, .form-item .description { color: #85bc22;}
+.form-item label, .form-item .description { color: #434f4f;}
 
 
 /**
@@ -576,7 +576,7 @@ ul.menu, ul.menu li, li.expanded, li.collapsed, li.leaf {
 }
 
 #main-menu {
-  margin-top: 60px;
+  margin-top: 90px;
   padding: 0 10px;
   float: right;
 	line-height: 40px;
