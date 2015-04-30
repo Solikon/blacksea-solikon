@@ -136,7 +136,7 @@ body {
 	padding: 0;
 	max-width:560px;
 	text-align:left;
-	font-size: 1.4em;
+	font-size: 1.3em;
 	line-height: 22px;
 	font-family: "Candela", Verdana, sanserif;
 	font-style: italic;
@@ -755,8 +755,8 @@ ul.menu, ul.menu li, li.expanded, li.collapsed, li.leaf {
 .teaser .title {
   margin: 0;
 	padding: 0 0 10px 0;
-	font-size: 1.8em;
-	font-weight: normal;
+	font-size: 1.3em;
+	font-weight: bold;
 	font-style:italic;
 }
 
@@ -789,7 +789,8 @@ ul.menu, ul.menu li, li.expanded, li.collapsed, li.leaf {
 }
 
 .teaser .links a {
-  font-weight: bold;
+  font-weight: normal;
+  font-style: italic;
 }
 
 .teaser .field-name-field-image img {
