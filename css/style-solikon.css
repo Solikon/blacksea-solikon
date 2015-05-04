@@ -962,18 +962,39 @@ ul.links li {
 
 /* Call for Papers Webform */
 
-.webform-component--methodik {
+
+.webform-component--thema,
+.webform-component--stichpunkte,
+.webform-component--methodik,
+.webform-component--inhalt-des-workshops,
+.webform-component--zielgruppe,
+.webform-component--methods,
+.webform-component--key-theme,
+.webform-component--tags,
+.webform-component--workshop-content,
+.webform-component--target-audience {
     float: left;
+    width: 100%;
 }
-#edit-submitted-methodik-select .form-item {
+#edit-submitted-stichpunkte-select .form-item,
+#edit-submitted-methodik-select .form-item,
+#edit-submitted-materialbedarf-select .form-item,
+#edit-submitted-tags-select .form-item,
+#edit-submitted-methods-select .form-item,
+#edit-submitted-material-requirements-select .form-item {
     float: left;
     width: 50%;
 }
-.webform-component--materialbedarf {
+.webform-component--materialbedarf,
+.webform-component--material-requirements {
     clear: both;
     float: left;
 }
-#edit-submitted-materialbedarf-select .form-item {
-    float: left;
-    width: 50%;
+/*.sidebar-first .block input.form-text {
+  max-width: 130px;
+  margin-bottom: .5em;
+}*/
+
+input.form-text, input.form-textarea {
+  max-width: 620px;
 }
