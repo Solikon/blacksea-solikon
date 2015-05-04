@@ -30,7 +30,7 @@ body {
   background: #ffffff;
 }
 
-#page-wrapper { 
+#page-wrapper {
   margin: 0;
   padding: 0;
   text-align: justify; /* Reset text alignment */
@@ -87,7 +87,7 @@ body {
 }
 
 #header-wrapper {
-		
+
 	background: url(../images/style-solikon/header.png) center no-repeat;
 }
 
@@ -117,7 +117,7 @@ body {
 	line-height: 56px;
 	font-family: "Atruerblue", Verdana, sanserif;
 	letter-spacing: 2px;
-	
+
 }
 
 #site-name a {
@@ -254,7 +254,7 @@ body {
 }
 
 #slideshow  .views-field-title a {
-	color: #85bc22;	
+	color: #85bc22;
 }
 
 #slideshow  .views-field-title a:hover {
@@ -304,7 +304,7 @@ body {
 	float: left;
 	height: 25px;
 	width: 64px;
-  background: url(../images/style-solikon/prev-next.png) left no-repeat;	
+  background: url(../images/style-solikon/prev-next.png) left no-repeat;
 	text-indent: -9999em;
 	cursor: pointer;
 }
@@ -314,7 +314,7 @@ body {
 	float: left;
 	height: 25px;
 	width: 64px;
-  background: url(../images/style-solikon/prev-next.png) right no-repeat;	
+  background: url(../images/style-solikon/prev-next.png) right no-repeat;
 	text-indent: -9999em;
 	cursor: pointer;
 }
@@ -356,7 +356,7 @@ body {
 
 .bottom-user-regions-inner {
   padding: 30px 0;
- 
+
 }
 
 .bild-float-left {float: left; margin: 5px 15px 0px 0px }
@@ -507,7 +507,7 @@ ul.menu, ul.menu li, li.expanded, li.collapsed, li.leaf {
 	color: #434f4f;
 	text-decoration: none;
 	background: #85bc22;
-	
+
 }
 
 /* Navigation Drop Down */
@@ -550,7 +550,7 @@ ul.menu, ul.menu li, li.expanded, li.collapsed, li.leaf {
 
 #navigation-menu ul.menu li li a:hover, #navigation-menu ul.menu li li a.active:hover {
   color: #434f4f;
-  background: #85bc22;  
+  background: #85bc22;
 }
 
 #navigation-menu ul.menu li ul ul {
@@ -647,7 +647,7 @@ ul.menu, ul.menu li, li.expanded, li.collapsed, li.leaf {
 
 #main-menu ul.menu li li a:hover, #main-menu ul.menu li li a.active:hover {
   color: #434f4f;
-  background: #85bc22;  
+  background: #85bc22;
 }
 
 #main-menu ul.menu li ul ul {
@@ -666,7 +666,7 @@ ul.menu, ul.menu li, li.expanded, li.collapsed, li.leaf {
   background:  url(../images/expanded-b.png) 95% 50% no-repeat;
 }
 
- 
+
 /* User Menu */
 
 #user-menu h3 {
@@ -827,7 +827,7 @@ ul.menu, ul.menu li, li.expanded, li.collapsed, li.leaf {
 }
 
 span.date-display-single {
-font-weight:bold; 
+font-weight:bold;
 }
 
 .full-node .taxonomy {
@@ -958,4 +958,22 @@ ul.links li {
 	color: #85bc22;
 	background: #ffffff;
 	text-decoration: none;
+}
+
+/* Call for Papers Webform */
+
+.webform-component--methodik {
+    float: left;
+}
+#edit-submitted-methodik-select .form-item {
+    float: left;
+    width: 50%;
+}
+.webform-component--materialbedarf {
+    clear: both;
+    float: left;
+}
+#edit-submitted-materialbedarf-select .form-item {
+    float: left;
+    width: 50%;
 }
