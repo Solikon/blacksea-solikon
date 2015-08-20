@@ -9,7 +9,7 @@ h1, h2, h3, h4, h5 {
 
 a {
   text-decoration: none;
-  color: #434f4f;
+  color: #95bc22;
 	font-weight: bold;
 }
 
@@ -755,7 +755,7 @@ ul.menu, ul.menu li, li.expanded, li.collapsed, li.leaf {
 .teaser .title {
   margin: 0;
 	padding: 0 0 10px 0;
-	font-size: 1.3em;
+	font-size: 1.2em;
 	font-weight: bold;
 	font-style:italic;
 }
@@ -812,7 +812,7 @@ ul.menu, ul.menu li, li.expanded, li.collapsed, li.leaf {
 .full-node .title {
 	padding: 0 0 5px 0;
 	margin: 0;
-	font-size: 2.0em;
+	font-size: 1.3em;
 	font-weight: bold;
 }
 
