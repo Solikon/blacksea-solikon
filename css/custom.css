@@ -135,3 +135,7 @@ td.active {
 	padding: 8px;
 	margin-bottom: 8px;
 }
+
+.luca-evrow . teaser {
+	background: #ddd;
+}
