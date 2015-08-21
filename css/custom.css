@@ -126,3 +126,12 @@ td.active {
 .form-item label, .form-item .description {
 	color: #555555;
 }
+
+/* LUCA */
+
+.views-exposed-form { 
+	background: #95bc22;
+	border-radius: 8px;
+	padding: 8px;
+	margin-bottom: 8px;
+}
