@@ -139,3 +139,10 @@ td.active {
 .luca-evrow .teaser {
 	background: #ddd;
 }
+
+.luca-ev-tag, .luca-ev-raum, .luca-ev-beginn, .luca-ev-dauer {
+	display: inline-block;
+	background: #fff;
+	padding: 4px;
+	border-radius: 4px;
+}
