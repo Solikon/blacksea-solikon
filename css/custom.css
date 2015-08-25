@@ -138,15 +138,27 @@ td.active {
 
 .luca-evrow .teaser {
 	background: #ddd;
+	border-radius: 8px;
+	border: 1px solid #95bc22;
+
 }
 
 .luca-ev-typ, .luca-ev-uhrzeit, .luca-ev-tag, .luca-ev-raum, 
 .luca-ev-beginn, .luca-ev-dauer {
 	display: inline-block;
 	background: #fff;
-	padding: 4px;
+	padding: 2px 4px;
 	border-radius: 4px;
-	margin: 0 4px 4px 0;
+	margin: 0 6px 6px 0;
 }
 
 .luca-ev-typ { background: #95bc22; }
+
+.luca-ev-kat .field-item {
+	display: inline-block;
+	background: #fff;
+	padding: 1px 3px;
+	border-radius: 4px;
+	margin: 0 6px 6px 0;
+	border: 1px solid #95bc22;
+}
