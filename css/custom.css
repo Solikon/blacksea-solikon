@@ -157,9 +157,9 @@ td.active {
 .luca-ev-kat .field-item {
 	display: inline-block;
 	background: #fff;
-	padding: 1px 3px;
+	padding: 0px 2px;
 	border-radius: 4px;
-	margin: 0 6px 6px 0;
+	margin: 0 4px 4px 0;
 	border: 1px solid #95bc22;
 	font-size: 11px;
 	text-transform: uppercase;
