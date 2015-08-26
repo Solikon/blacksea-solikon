@@ -161,4 +161,6 @@ td.active {
 	border-radius: 4px;
 	margin: 0 6px 6px 0;
 	border: 1px solid #95bc22;
+	font-size: 11px;
+	text-transform: uppercase;
 }
