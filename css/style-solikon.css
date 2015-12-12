@@ -749,7 +749,7 @@ ul.menu, ul.menu li, li.expanded, li.collapsed, li.leaf {
   margin-bottom: 20px;
 	background: #ffffff url(../images/style-solikon/teaser-point.png) bottom center no-repeat;
 	border-radius: 0px;
-	border-top: 1px solid #85bc22;
+	border-bottom: 1px solid #85bc22;
 }
 
 .teaser .title {
